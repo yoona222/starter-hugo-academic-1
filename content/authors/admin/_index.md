@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yang Zhao (赵阳) 
+title: Yang Zhao
 
 # Full name (for SEO)
 first_name: Yang
