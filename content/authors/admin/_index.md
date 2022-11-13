@@ -10,7 +10,7 @@ last_name: Zhao
 superuser: true
 
 # Role/position/tagline
-associate professor at Institute of Automation, Chinese Academy of Sciences
+role: associate professor at Institute of Automation, Chinese Academy of Sciences
 
 # Organizations/Affiliations to show in About widget
 organizations:
