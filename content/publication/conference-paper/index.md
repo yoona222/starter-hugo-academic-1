@@ -11,12 +11,8 @@ authors:
   - Y Zhou
   - C Zong
 
-
-
 date: '2022'
 doi: ''
-
-
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -28,11 +24,8 @@ publication_types: ['1']
 publication: In *Knowledge-Based Systems*
 publication_short: In *Knowledge-Based Systems*
 
-tags: []
-
 # Display this page in the Featured widget?
 featured: true
-
 
 --- 
 
