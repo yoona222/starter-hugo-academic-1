@@ -1,9 +1,9 @@
 <!-- ---
-# An instance of the Contact widget.
-widget: contact
+# An instance of the Contact widget.contact
+widget: 
 
 # This file represents a page section.
-headless: true
+headless: false
 
 
 # Order that this section appears on the page.
