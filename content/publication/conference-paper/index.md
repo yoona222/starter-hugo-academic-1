@@ -22,7 +22,8 @@ publication_types: ['1']
 # Publication name and optional abbreviated publication name.
 publication: In *Knowledge-Based Systems*
 publication_short: In *Knowledge-Based Systems*
-
+# Display this page in the Featured widget?
+featured: true
 
 
 --- 
