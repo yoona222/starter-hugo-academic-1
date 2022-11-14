@@ -11,7 +11,7 @@ authors:
   - Y Zhou
   - C Zong
 
-date: '2022'
+date: '2022-07-01T00:00:00Z'
 doi: ''
 
 # Publication type.
