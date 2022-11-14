@@ -11,10 +11,7 @@ authors:
   - Y Zhou
   - C Zong
 
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+
 
 date: '2022'
 doi: ''
