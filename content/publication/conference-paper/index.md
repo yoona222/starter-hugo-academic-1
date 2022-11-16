@@ -29,8 +29,8 @@ authors:
   - admin
 date: '2022-07-01T00:00:00Z'
 publication_types: ['1']
-publication: In *JICAI*
-publication_short: In *JICAI*
+publication:  '*JICAI*'
+publication_short: '*JICAI*'
 ---
 
 
