@@ -1,4 +1,4 @@
-+++
+---
 title: 'Zero-shot language extension for dialogue state tracking via pre-trained models and multi-auxiliary-tasks fine-tuning'
 
 # Authors
@@ -24,7 +24,6 @@ publication: In *Knowledge-Based Systems*
 publication_short: In *Knowledge-Based Systems*
 +++
 
-+++
 title: 'Knowledge '
 authors:
   - Yang Zhao
@@ -33,6 +32,6 @@ date: '2022-07-01T00:00:00Z'
 publication_types: ['1']
 publication: In *JICAI*
 publication_short: In *JICAI*
-+++
+---
 
 
