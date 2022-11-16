@@ -12,9 +12,9 @@ en:
 zh:
   languageCode: zh-Hans
   contentDir: content/zh
-  title: Chinese website title...
+  title: 赵阳.
   params:
-    description: 赵阳.
+    description: it is temp.
   menu:
     main:
       - name: 介绍
