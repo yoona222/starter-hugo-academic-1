@@ -1,16 +1,17 @@
 ---
-title: 'Knowledge graphs enhanced neural machine translation'
+title: 'Dynamic context selection for document-level neural machine translation via reinforcement learning'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Xiaomian Kang
   - admin
   - Jiajun Zhang
-  - Yu Zhou
   - Chengqing Zong
 
-date: '2021-1-07T00:00:00Z'
+
+date: '2020-10-9T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,8 +20,8 @@ date: '2021-1-07T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the Twenty-Ninth International Conference on International Joint Conferences on Artificial Intelligence (IJCAI 2021)*
-publication_short:  In *Proceedings of the Twenty-Ninth International Conference on International Joint Conferences on Artificial Intelligence (IJCAI 2021)*
+publication: In *Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020)*
+publication_short:  In *Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020)*
 ---
 
 

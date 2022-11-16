@@ -1,16 +1,18 @@
 ---
-title: 'Knowledge graphs enhanced neural machine translation'
+title: 'A deep learning based data fusion method for degradation modeling and prognostics'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Feng Wang
+  - Juan Du
   - admin
-  - Jiajun Zhang
-  - Yu Zhou
-  - Chengqing Zong
+  - Tao Tang 
+  - Jianjun Shi
+  
 
-date: '2021-1-07T00:00:00Z'
+date: '2020-8-28T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,8 +21,8 @@ date: '2021-1-07T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the Twenty-Ninth International Conference on International Joint Conferences on Artificial Intelligence (IJCAI 2021)*
-publication_short:  In *Proceedings of the Twenty-Ninth International Conference on International Joint Conferences on Artificial Intelligence (IJCAI 2021)*
+publication: '*IEEE Transactions on Reliability*'
+publication_short:  '*IEEE Transactions on Reliability*'
 ---
 
 
