@@ -20,6 +20,6 @@ date: '2022-07-01T00:00:00Z'
 publication_types: ['0']
 
 # Publication name and optional abbreviated publication name.
-publication: *Knowledge-Based Systems*
-publication_short: **
+publication: in *Knowledge-Based Systems*
+publication_short: in **
 ---
