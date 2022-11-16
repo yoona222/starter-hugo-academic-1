@@ -1,5 +1,4 @@
 ---
----
 title: 'An example conference paper'
 
 # Authors
@@ -101,10 +100,7 @@ publication_types: ['1']
 publication: In *Knowledge-Based Systems*
 publication_short: In *Knowledge-Based Systems*
 
---- 
-======
 
---- 
 title: 'Knowledge '
 authors:
   - Yang Zhao
