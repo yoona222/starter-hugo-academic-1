@@ -23,7 +23,7 @@ publication_types: ['1']
 publication: In *Knowledge-Based Systems*
 publication_short: In *Knowledge-Based Systems*
 
-
+--- 
 title: 'Knowledge '
 authors:
   - Yang Zhao
@@ -34,4 +34,4 @@ publication: In *JICAI*
 publication_short: In *JICAI*
 
 --- 
-======
+
