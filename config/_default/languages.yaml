@@ -17,6 +17,6 @@ zh:
     description: Site description in Chinese...
   menu:
     main:
-      - name: 传
+      - name: 赵阳
         url: '#about'
         weight: 1
