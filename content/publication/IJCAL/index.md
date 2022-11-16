@@ -5,11 +5,11 @@ title: 'Zero-shot language extension for dialogue state tracking via pre-trained
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - L Xiang
+  - Lu Xiang
   - admin
-  - J Zhu
-  - Y Zhou
-  - C Zong
+  - Junnan Zhu
+  - Yu Zhou
+  - Chengqing Zong
 
 date: '2022-07-01T00:00:00Z'
 
@@ -20,6 +20,6 @@ date: '2022-07-01T00:00:00Z'
 publication_types: ['0']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Knowledge-Based Systems*
-publication_short: In *Knowledge-Based Systems*
+publication: *Knowledge-Based Systems*
+publication_short: **
 ---
