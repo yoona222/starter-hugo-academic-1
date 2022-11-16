@@ -1,5 +1,5 @@
 ---
-title: 'CASIA's System for IWSLT 2020 Open Domain Translation'
+title: 'CASIA System for IWSLT 2020 Open Domain Translation'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
