@@ -22,13 +22,4 @@ publication_types: ['0']
 # Publication name and optional abbreviated publication name.
 publication: In *Knowledge-Based Systems*
 publication_short: In *Knowledge-Based Systems*
-
-title: 'Knowledge '
-authors:
-  - Yang Zhao
-  - admin
-date: '2022-07-01T00:00:00Z'
-publication_types: ['1']
-publication: In *JICAI*
-publication_short: In *JICAI*
 ---
