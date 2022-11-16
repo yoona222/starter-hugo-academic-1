@@ -23,7 +23,9 @@ publication_types: ['1']
 publication: In *Knowledge-Based Systems*
 publication_short: In *Knowledge-Based Systems*
 
+======
 
+--- 
 title: 'Knowledge graphs enhanced neural machine translation'
 authors:
   - Yang Zhao
