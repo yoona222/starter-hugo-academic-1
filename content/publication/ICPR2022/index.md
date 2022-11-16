@@ -22,7 +22,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In *26TH International Conference on Pattern Recognition (ICPR 2022)*
-publication_short:  In **
+publication_short:  In *26TH International Conference on Pattern Recognition (ICPR 2022)*
 ---
 
 
