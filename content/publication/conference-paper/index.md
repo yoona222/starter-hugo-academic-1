@@ -27,7 +27,7 @@ publication_short: In *Knowledge-Based Systems*
 ======
 
 --- 
-title: 'Knowledge graphs enhanced neural machine translation'
+title: 'Knowledge '
 authors:
   - Yang Zhao
   - admin
