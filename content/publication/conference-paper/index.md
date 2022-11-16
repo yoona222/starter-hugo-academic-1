@@ -1,5 +1,5 @@
 ---
-title: 'Zero-shot language extension for dialogue state tracking via pre-trained models and multi-auxiliary-tasks fine-tuning'
+-title: 'Zero-shot language extension for dialogue state tracking via pre-trained models and multi-auxiliary-tasks fine-tuning'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -22,9 +22,9 @@ publication_types: ['0']
 # Publication name and optional abbreviated publication name.
 publication: In *Knowledge-Based Systems*
 publication_short: In *Knowledge-Based Systems*
-+++
 
-title: 'Knowledge '
+
+-title: 'Knowledge '
 authors:
   - Yang Zhao
   - admin
