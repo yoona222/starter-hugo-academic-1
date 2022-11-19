@@ -1,6 +1,6 @@
 ---
-title: Chinese version book Neural Machine Translation (神经机器翻译) of Prof. Philipp Koehn's  
-subtitle: Our translated Chinese version of Prof. Philipp Koehn's book Neural Machine Translation (神经机器翻译) has been published (2022.4).
+title: We translate Prof. Philipp Koehn's book Neural Machine Translation into Chinese (神经机器翻译) (2022.4)   
+subtitle: Our translated Chinese version of Prof. Philipp Koehn's book Neural Machine Translation (神经机器翻译) has been published.
 
 # Summary for listings and search engines
 summary: []
