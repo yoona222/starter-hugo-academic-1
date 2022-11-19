@@ -1,6 +1,6 @@
 ---
-title: Our translated Chinese version of Prof. Philipp Koehn's book Neural Machine Translation (神经机器翻译) has been published (2022.4).
-subtitle: []
+title: Chinese version book Neural Machine Translation (神经机器翻译) of Prof. Philipp Koehn's  
+subtitle: Our translated Chinese version of Prof. Philipp Koehn's book Neural Machine Translation (神经机器翻译) has been published (2022.4).
 
 # Summary for listings and search engines
 summary: []
@@ -12,7 +12,7 @@ projects: []
 date: '2022-04-13T00:00:00Z'
 
 # Date updated
-lastmod: '2022-04-13T00:00:00Z'
+lastmod: []
 
 # Is this an unpublished draft?
 draft: false
