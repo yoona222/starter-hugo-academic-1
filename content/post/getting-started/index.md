@@ -1,9 +1,9 @@
 ---
 title: Our translated Chinese version of Prof. Philipp Koehn's book Neural Machine Translation (神经机器翻译) has been published (2022.4).
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+subtitle: []
 
 # Summary for listings and search engines
-summary: [].
+summary: []
 
 # Link this post with a project
 projects: []
