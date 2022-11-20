@@ -12,11 +12,17 @@ en:
 zh:
   languageCode: zh-Hans
   contentDir: content/zh
-  title: 赵阳.
+  title: 赵阳
   params:
-    description: it is temp.
+    description: 个人介绍
   menu:
     main:
-      - name: 介绍
+      - name: Home
         url: '#about'
-        weight: 1
+        weight: 10
+      - name: Post
+        url: '#post'
+        weight: 20
+     -  name: Publications
+        url: '#publications'
+        weight: 30
