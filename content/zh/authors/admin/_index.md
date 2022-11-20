@@ -1,42 +1,42 @@
 ---
 # Display name
-title: Yang Zhao
+title: 赵阳
 
 # Full name (for SEO)
-first_name: Yang
-last_name: Zhao
+first_name: 阳
+last_name: 赵
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Associate Professor at Institute of Automation Chinese Academy of Sciences
+role: 中国科学院自动化研究所副研究员
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Institute of Automation, Chinese Academy of Sciences
+  - name: 中国科学院自动化研究所
     url: http://www.nlpr.ia.ac.cn/cip/staff.htm
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include natural language processing, machine translation and knowledge graph.
+bio: 中国科学院自动化研究所，研究领域为自然语言处理、机器翻译和知识图谱。
 
 # Interests to show in About widget
 interests:
-  - Natural Language Processing
-  - Machine Translation
-  - Knowledge Graph
+  - 自然语言处理
+  - 机器翻译
+  - 知识图谱
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Pattern Recognition
-      institution: Institute of Automation Chinese Academy of Sciences
+    - course: 博士
+      institution: 中国科学院自动化研究所，模式识别国家重点实验室
       year: 2015-2019
-    - course: MEng in Automatics
-      institution: Beijing Jiaotong University
+    - course: 硕士
+      institution: 北京交通大学
       year: 2012-2015
-    - course: BSc in Automatics
-      institution: Beijing Jiaotong University
+    - course: 学士
+      institution: 北京交通大学
       year: 2008-2012
 
 # Social/Academic Networking
@@ -62,6 +62,6 @@ email: ''
 highlight_name: true
 ---
 
-I am an Associate Professor in National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Sciences. I obtained my Ph.D. in from NLPR in 2019. My advisor is Prof. Chengqing Zong.  Prior to that, I got my Bachelor and Master degree in Beijing Jiaotong University.
+博士，中国科学院自动化研究所副研究员，中国中文信息学会开源情报技术专业委员会委员。2019年毕业于中国科学院自动化研究所模式识别国家重点实验室，获博士学位。毕业后留所工作，研究方向为自然语言处理、机器翻译和知识图谱。
 
-My research interests include natural language processing, machine translation and knowledge graph. I have published more than 20 papers at top-tier conferences and journals including TASLP, ACL, IJCAI, EMNLP, COLING etc. I also have served as publication co-chairs for COLING-2020 and PC Members for many AI conferences.
+目前在国内外相关顶级学术会议（AAAI, IJCAI, EMNLP，COLING等）和著名期刊（TASLP，AI，TALLIP等）上发表20余篇论文。担任国际权威期刊（TASLP等）的审稿人，多次担任国际顶级学术会议（ACL, COLING, IJCAI, AAAI）的程序委员会委员，担任COLING-20的出版主席。作为负责人和参与人员，主持和承担国家自然基金、科技部重点研发计划和中国科学院先导计划等多项国家项目。
