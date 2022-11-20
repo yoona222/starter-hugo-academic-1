@@ -3,8 +3,8 @@
 title: 赵阳
 
 # Full name (for SEO)
-first_name: 阳
-last_name: 赵
+first_name: yang
+last_name: zhao
 
 # Is this the primary user of the site?
 superuser: true
