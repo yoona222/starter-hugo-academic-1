@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 赵阳
+title: Yang Zhao (赵阳)
 
 # Full name (for SEO)
 first_name: yang
@@ -14,7 +14,7 @@ role: 中国科学院自动化研究所副研究员
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: 中国科学院自动化研究所
+  - name: 中国科学院自动化研究所，模式识别国家重点实验室，自然语言处理团队
     url: http://www.nlpr.ia.ac.cn/cip/staff.htm
 
 # Short bio (displayed in user profile at end of posts)
