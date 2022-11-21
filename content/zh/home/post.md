@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: 书籍和专著
+title: 译著
 subtitle:
 
 content:
