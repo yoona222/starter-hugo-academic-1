@@ -1,5 +1,5 @@
 ---
-title: 'Lu Xiang, Yang Zhao, Junnan Zhu, Yu Zhou, Chengqing Zong'
+title: 'Zero-Shot Deployment for Cross-Lingual Dialogue System'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
