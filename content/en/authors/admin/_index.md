@@ -14,7 +14,7 @@ role: Associate Professor at Institute of Automation Chinese Academy of Sciences
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Natural Language Processing Group
+  - name: Natural Language Processing Group, Institute of Automation, Chinese Academy of Sciences
     url: http://www.nlpr.ia.ac.cn/cip/staff.htm
 
 # Short bio (displayed in user profile at end of posts)
