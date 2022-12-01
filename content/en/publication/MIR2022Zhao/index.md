@@ -6,7 +6,7 @@ title: 'Transformer: A General Framework from Machine Translation to Others'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Junnan Zhu
+  - Jiajun Zhang
   - Chengqing Zong
 
 date: '2022-12-01T00:00:00Z'
@@ -19,7 +19,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: ' *to appear in Machine Intelligence Research*'
-publication_short:  '*Machine Intelligence Research*'
+publication_short:  '*to appear in Machine Intelligence Research*'
 ---
 
 
