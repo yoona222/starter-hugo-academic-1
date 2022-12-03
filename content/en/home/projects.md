@@ -13,7 +13,7 @@ weight: 40
 title: Hello
 
 # Section subtitle
-subtitle:
+subtitle: dddddddddddddddddd
 
 # Section design
 design:
@@ -22,5 +22,6 @@ design:
   # Use a dark navy background with light text.
   background:
     color: '#FFFFFF'
-    text_color_light: true
+    text_color_light: false
 ---
+test test
