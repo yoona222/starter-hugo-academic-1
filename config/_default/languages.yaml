@@ -21,11 +21,11 @@ zh:
         url: '#about'
         weight: 10
       - name: 专著
-        url: '#about'
+        url: '#post'
         weight: 20
       - name: 论文
-        url: '#about'
+        url: '#publication'
         weight: 30
-      - name: 学术活动和任职
-        url: '#about'
+      - name: 学术活动
+        url: '#project'
         weight: 40
