@@ -46,6 +46,7 @@ education:
 social:
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
+    label: My Google Scholar
     link: https://scholar.google.com/citations?hl=zh-CN&user=09YqQNsAAAAJ
     display:
       header: true
