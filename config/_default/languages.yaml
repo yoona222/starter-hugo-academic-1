@@ -17,6 +17,15 @@ zh:
     description: 个人介绍
   menu:
     main:
-      - name: Home
+      - name: 个人介绍
         url: '#about'
         weight: 10
+      - name: 专著
+        url: '#about'
+        weight: 20
+      - name: 论文
+        url: '#about'
+        weight: 30
+      - name: 学术活动和任职
+        url: '#about'
+        weight: 40
