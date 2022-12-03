@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 # Section title
-title: Research Activity
+title: 学术活动
 
 # Section subtitle
 subtitle: ''
