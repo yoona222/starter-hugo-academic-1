@@ -14,7 +14,7 @@ role: 中国科学院自动化研究所副研究员
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: 中国科学院自动化研究所，模式识别国家重点实验室，自然语言处理团队
+  - name: 中科院自动化所，模式识别国家重点实验室，自然语言处理团队
     url: http://www.nlpr.ia.ac.cn/cip/staff.htm
 
 # Short bio (displayed in user profile at end of posts)
@@ -45,8 +45,11 @@ education:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+    icon_pack: ai
+    label: My Google Scholar
     link: https://scholar.google.com/citations?hl=zh-CN&user=09YqQNsAAAAJ
+    display:
+      header: true
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
@@ -56,7 +59,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'yangzhao@nlpr.ia.ac.cn'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
