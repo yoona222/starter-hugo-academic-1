@@ -18,8 +18,8 @@ date: '2022-12-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: ' *to appear in Machine Intelligence Research*'
-publication_short:  '*to appear in Machine Intelligence Research*'
+publication: ' *accepted by Machine Intelligence Research*'
+publication_short:  '*accepted by Machine Intelligence Research*'
 ---
 
 
